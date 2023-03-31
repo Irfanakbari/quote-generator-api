@@ -27,5 +27,8 @@ To deploy this project, clone this repository on your local machine and run
     [GET] /quote -> Get Quote
 ```
 
-
+## Example Endpoint
+```bash
+  https://quote-generator-4dkkjzjz3q-et.a.run.app/
+```
 

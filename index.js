@@ -4,6 +4,6 @@ import routes from "./src/routes.js";
 const app = express();
 app.use(routes)
 
-app.listen(3000,()=>{
+app.listen(8080,()=>{
     console.log('listening on port 3000')
 })
