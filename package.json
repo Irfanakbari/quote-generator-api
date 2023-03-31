@@ -1,0 +1,34 @@
+{
+  "name": "quote-generator",
+  "version": "1.0.0",
+  "description": "Random Quote Generator API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irfanakbari/quote-generator-api.git"
+  },
+  "keywords": [
+    "quote",
+    "api",
+    "quotes",
+    "generator"
+  ],
+  "author": "Irfan Akbari Habibi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irfanakbari/quote-generator-api/issues"
+  },
+  "homepage": "https://github.com/Irfanakbari/quote-generator-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  }
+}
