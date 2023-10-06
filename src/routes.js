@@ -6,7 +6,7 @@ const router = express.Router();
 router.get('/',(req,res) =>{
     res.json({
         status: 200,
-        message: 'API is Okay',
+        message: 'API is Okay, /quote to get random quote',
         credit: 'Irfan Akbari Habibi'
     })
 })
