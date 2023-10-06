@@ -29,6 +29,6 @@ To deploy this project, clone this repository on your local machine and run
 
 ## Example Endpoint
 ```bash
-  https://quote-generator-4dkkjzjz3q-et.a.run.app/
+  https://api-quotes.irfanakbari.my.id/
 ```
 
